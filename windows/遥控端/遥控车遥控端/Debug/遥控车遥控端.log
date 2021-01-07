@@ -1,0 +1,3 @@
+﻿  socket连接.cpp
+C:\Users\BombSky\Documents\项目\C++\树莓派\遥控车\遥控端\遥控车遥控端\socket连接.cpp(35,28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  遥控车遥控端.vcxproj -> C:\Users\BombSky\Documents\项目\C++\树莓派\遥控车\遥控端\Debug\遥控车遥控端.exe
